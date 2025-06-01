@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useContext } from 'react';
 import { Menu, X, Search, Sun, Moon } from 'lucide-react';
 import { ThemeContext } from '../context/ThemeContext';
+import logo from './logo.png'
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -50,8 +51,9 @@ const Header = () => {
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
         <div className="flex items-center">
-          <a href="#home" className="text-lg md:text-xl font-bold text-blue-800 dark:text-blue-400">
-            Deepan M.N. <span className="text-sm font-semibold text-gray-600 dark:text-gray-300">IPS</span>
+          <a href="#home" className="text-lg md:text-xl font-bold text-blue-800 dark:text-blue-400 flex align-center gap-3">
+            <img src={logo} alt="Deepan MN IPS" width={30}/>
+           <span> Deepan M.N. <span className="text-sm font-semibold text-gray-600 dark:text-gray-300">IPS</span></span>
           </a>
         </div>
 
