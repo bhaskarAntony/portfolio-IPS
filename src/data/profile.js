@@ -20,7 +20,7 @@ and customer level to ensure better off-take. It covered a span of programs -
 SMS educational campaign, Sales tracking tools on mobile, Sampling program
 for customers and Contests for the Retail.`,
     earlyCareer: "Assistant Commissioner of Police in  October 2021 - September 2023 (2 years), Kalaburagi, Karnataka, India",
-    specialization: "Counter-terrorism operations, crowd management, and community-oriented policing strategies."
+    specialization: "crowd management, and community-oriented policing strategies."
   },
   contact: {
     email: "deepan.mn@ksrp.gov.in",

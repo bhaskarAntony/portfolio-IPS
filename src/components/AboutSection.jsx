@@ -89,7 +89,7 @@ const AboutSection = () => {
                     <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-3 mt-1">
                       <span className="text-blue-600 dark:text-blue-400 text-xs font-bold">✓</span>
                     </div>
-                    <p className="text-gray-700 dark:text-gray-300">Over 10 years of distinguished service in the Indian Police Service</p>
+                    <p className="text-gray-700 dark:text-gray-300">Over 5 years of distinguished service in the Indian Police Service</p>
                   </li>
                   <li className="flex items-start">
                     <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-3 mt-1">
@@ -101,13 +101,25 @@ const AboutSection = () => {
                     <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-3 mt-1">
                       <span className="text-blue-600 dark:text-blue-400 text-xs font-bold">✓</span>
                     </div>
-                    <p className="text-gray-700 dark:text-gray-300">Recognized expertise in counter-terrorism operations</p>
+                    <p className="text-gray-700 dark:text-gray-300">Received letter of appreciation from Deputy Commissioner of Police, Kalaburagi for supervision in detection of criminals in a challenging murder case with hardly any clue !</p>
                   </li>
                   <li className="flex items-start">
                     <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-3 mt-1">
                       <span className="text-blue-600 dark:text-blue-400 text-xs font-bold">✓</span>
                     </div>
-                    <p className="text-gray-700 dark:text-gray-300">Pioneer in implementing community-oriented policing initiatives</p>
+                    <p className="text-gray-700 dark:text-gray-300">Honored with the DG & IGP Commendation Disc, marking the first time this prestigious award has been presented in Karnataka, recognizing distinguished service in the police fraternity.</p>
+                  </li>
+                  <li className="flex items-start">
+                    <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-3 mt-1">
+                      <span className="text-blue-600 dark:text-blue-400 text-xs font-bold">✓</span>
+                    </div>
+                    <p className="text-gray-700 dark:text-gray-300">"Pioneered the development of the Senior Police Officers Research and Training Institute (SPORTI) platform, enhancing training and research capabilities within the Karnataka State Police.</p>
+                  </li>
+                  <li className="flex items-start">
+                    <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-100 dark:bg-blue-900 flex items-center justify-center mr-3 mt-1">
+                      <span className="text-blue-600 dark:text-blue-400 text-xs font-bold">✓</span>
+                    </div>
+                    <p className="text-gray-700 dark:text-gray-300">Introduced a digital armoury management system incorporating fingerprint authentication, streamlining the issuance and return of weapons and ensuring accountability.</p>
                   </li>
                 </ul>
               </div>
